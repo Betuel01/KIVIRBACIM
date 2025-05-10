@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KIVIRBACIM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KIVIRBACIM_jar</output-path>
+    <root id="archive" name="KIVIRBACIM.jar">
+      <element id="module-output" name="KIVIRBACIM" />
+    </root>
+  </artifact>
+</component>
